@@ -8,7 +8,7 @@ I'm a second-year undergraduate student from Tongji University who loves photogr
 - to be supplemented(can't find any more good-at skills...)
 
 ## Projects
-I'm currently working on ML course taught by Andrew NG and learning ios development.
+I'm currently working on ML course taught by Andrew NG and learning ios development📱.
 
 ## Contact Me
 Feel free to reach out to me on `Wechat:jiaoao1105731065` if you want to connect!
