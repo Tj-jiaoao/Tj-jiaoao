@@ -3,12 +3,8 @@
 ## Hey there, I'm Jiao Ao! 👋
 I'm a second-year undergraduate student from Tongji University who loves photography, watching movies, and traveling. I'm currently working hard to improve my coding skills.
 
-## Skills
-- Cross-platform usage of Linux, macOS and Windows💻
-- to be supplemented(can't find any more good-at skills...)
-
-## Projects
-I'm currently working on ML course taught by Andrew NG and learning ios development📱.
+## Personal blog
+I have a personal blog, with some learning&life experiences on it, you can access it with the following url: https://tj-jiaoao.github.io.
 
 ## Contact Me
 Feel free to reach out to me on `Wechat:jiaoao1105731065` or `ins:jiaoao73`if you want to connect!
